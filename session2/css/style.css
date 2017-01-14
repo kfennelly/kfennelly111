@@ -58,9 +58,10 @@ img:hover {
 }
 
 #green {
- background: green; 
-}
+ background: green; }
 
 #blue {
- background: blue; 
-}
+ background: blue; }
+
+p, img {
+  display: none; }
