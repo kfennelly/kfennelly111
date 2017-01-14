@@ -7,3 +7,9 @@ property: value;
 header h1 {
   color: #00802b;
 }
+header {
+  background: url('https://static.pexels.com/photos/256485/pexels-photo-256485.jpeg');
+  width: 100%;
+  padding: 50px;
+  text-align: center; 
+}
