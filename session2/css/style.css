@@ -5,7 +5,9 @@ property: value;
 */
 
 header h1 {
-  color: #00802b;
+  color: white;
+  font-family: sans-serif;
+  font-size: 1.5 em;
 }
 header {
   background: url('https://static.pexels.com/photos/256485/pexels-photo-256485.jpeg');
