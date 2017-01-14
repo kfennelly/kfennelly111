@@ -40,3 +40,27 @@ nav ul li a {
 nav ul li a:hover {
     color: red;
 }
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 200px; 
+}
+
+img:hover {
+  border-radius: 0px;
+}
+
+#green {
+ background: green; 
+ color: white;
+ font-size: 20px;
+ font-style: italic;
+}
+
+#blue {
+ background: blue; 
+ color: white;
+ font-size: 20px;
+ font-style: italic;
+}
