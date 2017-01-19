@@ -1,0 +1,92 @@
+/*once your team fixes all the issues on the stylesheet, have some fun with changing the colors on this stylesheet using hex codes.
+Hex code options are available at the following link: http://www.w3schools.com/colors/colors_picker.asp */
+
+div.container {
+    width: 100%;
+}
+header, footer {
+    padding: 1em;
+    clear: left;
+    text-align: center;
+}
+header {
+    font-family: Raleway, "Open Sans", sans-serif; 
+    background-color: #e6fff2;
+    font-size: 150%
+}
+nav {
+    float: left;
+    width: 100%;;
+    margin: 0px;
+    font-family: "Open Sans", sans-serif;
+    line-height: 2em;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #4d4d4d;
+    top: 0;
+    width: 100%;
+}
+nav li {
+    float: left;
+}
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+nav li a:hover {
+    background-color: #e6fff2;
+}
+article {
+    padding: 3em;
+    overflow: hidden;
+}
+img {
+    float: right;
+    margin: 0px 10px 10px 20px;
+    clear: right;
+}
+img, h1{
+    display:none;
+}
+ h1 {
+    font-family: Raleway, "Open Sans", sans-serif; 
+}
+ h3 {
+    font-family: Raleway, "Open Sans", sans-serif; 
+     font-size: 1.5em;
+}
+p {
+    font-family: "Open Sans", sans-serif;
+}
+li {
+    font-family: "Open Sans", sans-serif;
+    line-height: 1.5em;
+    text-decoration: none;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+li a:link, a:visted {
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: #e6fff2;
+}
+footer {
+    font-family: "Open Sans", sans-serif;
+    color: white;
+    background-color: #4d4d4d;
+}
+footer a {
+    text-decoration: none;
+    color: white;
+}
