@@ -2,19 +2,16 @@ section {
   text-align: center;
 }
 footer {
-  padding-top: 20px;
   text-align: center;
   background-color: gray;
+  font-family: Raleway, sans-serif;
+  color: white;
 }
 p {
   font-family: "Josefin Sans", sans-serif;
 }
 h1, h3, nav {
   font-family: Raleway, sans-serif;
-}
-footer {
-  font-family: Raleway, sans-serif;
-  color: white;
 }
 #Section1 {
   background-color: #e5ffec;
