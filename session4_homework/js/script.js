@@ -5,3 +5,9 @@ $(document).ready(function(){
     $("header").css("background-color", "lightgray");
   });
 });
+// click to hide cactus photo
+$(document).ready(function(){
+    $("section1img").click(function(){
+        $(this).fadeToggle(1000);
+    });
+});
