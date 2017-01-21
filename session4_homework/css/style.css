@@ -55,11 +55,12 @@ header, h1, h3, nav {
   padding-left: 40px;
   padding-right: 40px;
 }
+/*
 .panel {
   padding-left: 50px;
   padding-right: 50px;
 }
-/* #panel {
+ #panel {
     display: none;
 }
 #flip {
