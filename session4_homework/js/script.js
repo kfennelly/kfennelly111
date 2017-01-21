@@ -4,7 +4,7 @@ $(document).ready(function(){
   $(".section1img").fadeIn(5000);
   /* $("header").click(function(){
     $("header").css("background-color", "lightgray"); */
-  $("#flip").click(function(){
-    $("#panel").slideDown("slow");
-    });
+ /* $("#flip").click(function(){
+    $("#panel").slideDown("slow"); 
+    }); */
 });
