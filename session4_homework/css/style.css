@@ -5,7 +5,9 @@ section {
   text-align: center;
   padding-top: 100px;
 }
-
+header {
+  padding-top: 100px;
+}
 footer {
   text-align: center;
   background-color: gray;
