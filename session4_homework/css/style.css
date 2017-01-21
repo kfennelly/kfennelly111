@@ -17,9 +17,11 @@ p {
 header, h1, h3, nav {
   font-family: Raleway, sans-serif;
 }
+.container {
+    padding-top: 50px;
+}
 .Section1 {
   background-color: #e5ffec;
-  padding-top: 50px;
 }
 
 .Section2 {
