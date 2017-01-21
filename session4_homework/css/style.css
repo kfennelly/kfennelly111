@@ -31,7 +31,6 @@ header, h1, h3, nav {
     background-color: #ffe5ec;  
 }
 #form-group {
-  margin-left: 100px;
-  margin-right: 100px;
+  width: 70%;
 }
 
