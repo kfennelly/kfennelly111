@@ -11,14 +11,14 @@ footer {
   text-align: center;
 }
 
-#top {
+.top {
   background-color: blue;
 }
 
-#middle {
+.middle {
   background-color: #e5ffff;
 }
 
-#bottom {
+.bottom {
     background-color: #ffe5ec;  
 }
