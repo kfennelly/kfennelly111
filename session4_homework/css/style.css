@@ -1,0 +1,24 @@
+
+section {
+  height: 400px;
+  padding-top: 20px;
+  text-align: center;
+
+}
+footer {
+  height: 20px;
+  padding-top: 20px;
+  text-align: center;
+}
+
+#top {
+  background-color: #ffffe6;
+}
+
+#middle {
+  background-color: #e5ffff;
+}
+
+#bottom {
+    background-color: #ffe5ec;  
+}
