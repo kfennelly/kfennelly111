@@ -21,6 +21,8 @@ footer {
   float: right;
   padding-left: 15px;
   padding-bottom: 15px;
+  padding-right: 15px;
+  padding-top: -15px;
 }
 p {
   font-family: "Josefin Sans", sans-serif;
