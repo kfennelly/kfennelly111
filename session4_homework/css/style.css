@@ -41,7 +41,8 @@ header, h1, h3, nav {
 #Section3 {
     background-color: #ffe5ec;  
 }
-#"form-group row" {
-  width: 70%;
+#form-container {
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
