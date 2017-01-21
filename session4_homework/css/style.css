@@ -3,7 +3,6 @@ section {
   height: 400px;
   padding-top: 20px;
   text-align: center;
-
 }
 footer {
   height: 20px;
@@ -21,9 +20,9 @@ h1, h3 {
 }
 
 .middle {
-  background-color: #e5ffff;
+  background-color: green;
 }
 
 .bottom {
-    background-color: #ffe5ec;  
+    background-color: yellow;  
 }
