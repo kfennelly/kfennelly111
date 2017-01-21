@@ -19,7 +19,8 @@ footer {
   width: 30%;
   border-radius: 200px; 
   float: right;
-  padding: 15px;
+  padding-left: 15px;
+  padding-bottom: 15px;
 }
 p {
   font-family: "Josefin Sans", sans-serif;
