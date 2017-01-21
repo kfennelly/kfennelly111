@@ -26,6 +26,9 @@ footer {
 }
 p {
   font-family: "Josefin Sans", sans-serif;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15px;
 }
 header, h1, h3, nav {
   font-family: Raleway, sans-serif;
