@@ -17,6 +17,9 @@ p {
 header, h1, h3, nav {
   font-family: Raleway, sans-serif;
 }
+nav {
+  30px;
+}
 .container {
     padding-top: 50px;
 }
