@@ -1,4 +1,4 @@
-// fade in h1 and photos
+// fade in h1 and photos, click to change header color
 $(document).ready(function(){
   $("h1, img, header").fadeIn(5000);
   $("header").click(function(){
