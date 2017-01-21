@@ -3,6 +3,8 @@ img, h1, header {
 }
 section {
   text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px; 
 }
 header {
   padding-top: 100px;
