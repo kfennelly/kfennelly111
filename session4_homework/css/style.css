@@ -2,7 +2,6 @@ section {
   text-align: center;
 }
 footer {
-  height: 20px;
   padding-top: 20px;
   text-align: center;
   background-color: gray;
@@ -23,8 +22,4 @@ h1, h3, nav {
 
 #Section3 {
     background-color: #ffe5ec;  
-}
-hr {
-  padding-top: -20px;
-  padding-bottom: -20px;
 }
