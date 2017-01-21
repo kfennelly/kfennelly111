@@ -1,4 +1,3 @@
-
 section {
   height: 400px;
   padding-top: 20px;
@@ -15,14 +14,14 @@ body {
 h1, h3 {
   font-family: Raleway, sans-serif;
 }
-#top {
+#Section1 {
   background: blue;
 }
 
-.middle {
+.Section2 {
   background-color: green;
 }
 
-.bottom {
+Section3 {
     background-color: yellow;  
 }
