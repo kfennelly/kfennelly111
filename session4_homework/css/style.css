@@ -11,8 +11,8 @@ footer {
   text-align: center;
 }
 
-top {
-  background-color: blue;
+.top {
+  background: blue;
 }
 
 .middle {
