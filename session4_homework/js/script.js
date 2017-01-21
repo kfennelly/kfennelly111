@@ -5,7 +5,4 @@ $(document).ready(function(){
   $("header").click(function(){
     $("header").css("background-color", "lightgray");
   });
-  $("#section1img").click(function(){
-    $(this).fadeToggle(1000);
-  });
 });
