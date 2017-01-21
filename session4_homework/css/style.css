@@ -1,11 +1,11 @@
 section {
-  padding-top: 20px;
   text-align: center;
 }
 footer {
   height: 20px;
   padding-top: 20px;
   text-align: center;
+  background-color: gray;
 }
 p {
   font-family: "Josefin Sans", sans-serif;
