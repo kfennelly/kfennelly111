@@ -12,10 +12,10 @@ header {
 }
 footer {
   text-align: center;
+  line-height: 1.5em;
   background-color: gray;
   font-family: Raleway, sans-serif;
   color: white;
-  height: 1.5em;
 }
 #section1img {
   width: 30%;
