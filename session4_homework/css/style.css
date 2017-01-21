@@ -24,3 +24,7 @@ h1, h3, nav {
 #Section3 {
     background-color: #ffe5ec;  
 }
+hr {
+  padding-top: -20px;
+  padding-bottom: -20px;
+}
