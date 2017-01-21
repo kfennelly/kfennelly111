@@ -30,7 +30,7 @@ header, h1, h3, nav {
 #Section3 {
     background-color: #ffe5ec;  
 }
-#form-group {
+#"form-group row" {
   width: 70%;
 }
 
