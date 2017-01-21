@@ -7,10 +7,10 @@ footer {
   padding-top: 20px;
   text-align: center;
 }
-body {
+p {
   font-family: "Josefin Sans", sans-serif;
 }
-h1, h3 {
+h1, h3, nav {
   font-family: Raleway, sans-serif;
 }
 #Section1 {
