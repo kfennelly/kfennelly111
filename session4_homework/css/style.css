@@ -59,8 +59,6 @@ header, h1, h3, nav {
     display: none;
 }
 #flip {
-    padding: 5px;
+    padding-left: 20px;
     text-align: left;
-    border: solid 3px gray;
-    border-radius: 5px;
 }
