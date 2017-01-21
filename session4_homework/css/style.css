@@ -3,6 +3,7 @@ img, h1, header {
 }
 section {
   text-align: center;
+  padding-top: 100px;
 }
 
 footer {
@@ -19,7 +20,6 @@ header, h1, h3, nav {
 }
 .Section1 {
   background-color: #e5ffec;
-  padding-top: 30px;
 }
 
 .Section2 {
