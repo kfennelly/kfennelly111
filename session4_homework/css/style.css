@@ -15,13 +15,13 @@ h1, h3 {
   font-family: Raleway, sans-serif;
 }
 #Section1 {
-  background: blue;
+  background: #e5ffec;
 }
 
-.Section2 {
-  background-color: green;
+#Section2 {
+  background-color: #e5ffec;
 }
 
-Section3 {
-    background-color: yellow;  
+#Section3 {
+    background-color: #ffe5ec;  
 }
