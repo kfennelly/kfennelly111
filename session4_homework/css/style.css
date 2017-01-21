@@ -12,6 +12,10 @@ p {
 h1, h3, nav {
   font-family: Raleway, sans-serif;
 }
+footer {
+  font-family: Raleway, sans-serif;
+  color: white;
+}
 #Section1 {
   background-color: #e5ffec;
 }
